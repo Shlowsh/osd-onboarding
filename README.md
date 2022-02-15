@@ -52,3 +52,4 @@ Onboarding Project for the Open-Source Development Team
 - \^O^/
 - TS >> js
 - Yeah, I'm pushin P
+- You ordered Diet Coke thas a joke right?
